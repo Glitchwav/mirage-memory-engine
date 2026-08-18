@@ -147,8 +147,6 @@ This is research and engineering software, not decision advice. Test with dispos
 
 DecisionMemory is provided under the [MIT License](LICENSE). Third-party crates, Python packages, SurrealDB, LanceDB, and downloaded embedding models retain their own licenses.
 
-## Upstream Attribution
-
 Mirage Memory Engine includes and adapts code from
 [TradeMemory Protocol](https://github.com/mnemox-ai/tradememory-protocol),
 originally created by **Sean (`sean.sys`)** and published under the MIT License.
